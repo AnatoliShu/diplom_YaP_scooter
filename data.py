@@ -8,7 +8,3 @@ orders_body = {
     "deliveryDate": "2023-09-22",
     "comment": "Saske, come back to Konoha",
 }
-
-headers = {
-    "Content-Type": "application/json"
-}
